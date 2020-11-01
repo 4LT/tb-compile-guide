@@ -110,6 +110,6 @@ The same expression language that you used for your compile profiles can be used
 
 For additional parameters for the compile tools, ericw's tools come provided with the tools; the documentation is also available online at <https://ericwa.github.io/ericw-tools/>
 
+<br/>
 
-
-To the extent possible under law, Seth Rader has waived all copyright and related or neighboring rights to A Codensed Guide on Compiling Quake Maps from TrenchBroom. This work is published from: United States. 
+*To the extent possible under law, Seth Rader has waived all copyright and related or neighboring rights to A Codensed Guide on Compiling Quake Maps from TrenchBroom. This work is published from: United States.*
